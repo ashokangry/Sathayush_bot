@@ -1,2 +1,2 @@
-# Sathayush_bot
-A bot which is checking both filthy language and nudity detection
+# Sathayush Filthy Language Detection
+A Resi API Framework Which will filter the Filthy Language Detection
